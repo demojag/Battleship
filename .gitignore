@@ -1,0 +1,21 @@
+.idea/
+*.iml
+dependency-reduced-pom.xml
+.DS_Store
+
+### Scala ###
+*.class
+*.log
+
+# sbt specific
+.cache/
+.history/
+.lib/
+dist/*
+target/
+**/target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+project/project
